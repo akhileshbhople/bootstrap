@@ -17,5 +17,5 @@ before_install:
   - sh -e /etc/init.d/xvfb start
   - npm install --quiet -g karma
 
-script: grunt
+#script: grunt
 sudo: false
